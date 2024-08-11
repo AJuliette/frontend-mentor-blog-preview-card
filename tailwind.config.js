@@ -2,7 +2,11 @@
 module.exports = {
   content: ['./index.html'],
   theme: {
-    extend: {},
+    extend: {
+      boxShadow: {
+        'custom': '10px 10px 1px black', // Replace with desired values
+      }
+    },
     fontFamily: {
       figtree: ["Figtree", "sans-serif"]
     },
