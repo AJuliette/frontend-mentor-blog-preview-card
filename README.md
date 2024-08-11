@@ -5,6 +5,8 @@ This is a solution to the [Blog Preview Card](https://www.frontendmentor.io/chal
 
 ### Screenshot
 
+![](./screenshot.png)
+
 ### Link
 
 [Live Site URL](https://deft-marshmallow-bfd21e.netlify.app)
